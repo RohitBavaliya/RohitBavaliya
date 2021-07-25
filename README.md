@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RohitBavaliya
 - 👀 I’m interested in Android Application Development
-- 🌱 I’m currently learning Android & Flutter
+- 🌱 I’m currently learning Android & Java
 - 📫 My Email id : rohit13bavaliya@gmail.com
